@@ -2,8 +2,19 @@
 Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company guided towards finding, isolationg, and stoping malicious insider attacks.
 
 # Meet our team.
+Breanna Taylor
+
+David Renteria
+
+Festus Oguhebe Jr
+
 William Baur
 ![frame](https://github.com/D-E-E-P-Impact/.github/assets/147181270/b8a26aaf-dd3a-4cb3-8dc7-716d95ed20bc)
+
+Tommy S Taylor II
+
+
+Hector Cordova
 
 
 <!--
