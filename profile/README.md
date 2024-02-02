@@ -9,7 +9,7 @@ David Renteria
 Festus Oguhebe Jr
 
 William Baur
-![frame](https://github.com/D-E-E-P-Impact/.github/assets/147181270/b8a26aaf-dd3a-4cb3-8dc7-716d95ed20bc|width=100)
+<img src="https://github.com/D-E-E-P-Impact/.github/assets/147181270/b8a26aaf-dd3a-4cb3-8dc7-716d95ed20bc"=250x250 />
 
 Tommy S Taylor II
 
