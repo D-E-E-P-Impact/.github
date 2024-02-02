@@ -9,6 +9,7 @@ David Renteria
 Festus Oguhebe Jr
 
 William Baur
+
 [Linkedin](https://www.linkedin.com/in/williamrbaur/)
 
 Tommy S Taylor II
