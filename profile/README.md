@@ -16,6 +16,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 
 [Linkedin](https://www.linkedin.com/in/drent23)
+
 [GitHub](https://github.com/drent23)
 
 ### Festus Oguhebe Jr
@@ -23,6 +24,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 
 [Linkedin](https://www.linkedin.com/in/festus-oguhebe-jr-foco/)
+
 [GitHub](https://github.com/focodecided)
 
 ### William Baur
@@ -30,6 +32,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 
 [Linkedin](https://www.linkedin.com/in/williamrbaur/)
+
 [GitHub](https://github.com/Wrbaur)
 
 ### Tommy S Taylor II
@@ -37,6 +40,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 
 [Linkedin](http://www.linkedin.com/in/taylortommy)
+
 [GitHub](https://github.com/taylortommy23)
 
 
@@ -45,8 +49,8 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 
 [Linkedin](https://www.linkedin.com/in/hector-a-cordova/)
-[GitHub](https://github.com/Hector2024)
 
+[GitHub](https://github.com/Hector2024)
 
 <!--
 
