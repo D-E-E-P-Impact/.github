@@ -8,6 +8,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 
 [Linkedin](https://www.linkedin.com/in/breanna-t-341637296)
+
 [GitHub](https://github.com/Btaylor007)
 
 ### David Renteria
