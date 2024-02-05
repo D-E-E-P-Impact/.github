@@ -3,7 +3,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 # Meet our team.
 
-### Breanna Taylor
+- ### Breanna Taylor
 ![Breanna Talylor 1](https://github.com/D-E-E-P-Impact/.github/assets/147181270/3468191b-9e56-449f-84d7-c381d36a1626)
 
 
