@@ -8,9 +8,9 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 8-year Air Force Security Forces veteran with a strong background as a 4-year Electronic Maintenance Technician.My adaptability and continuous learning ensures growth in both security strategies and technological advancements.
 
-[Linkedin](https://www.linkedin.com/in/breanna-t-341637296)
-
-[GitHub](https://github.com/Btaylor007)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/breanna-t-341637296)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Btaylor007)
 
 - ### David Renteria
 ![David Renteria](https://github.com/D-E-E-P-Impact/.github/assets/147181270/6394cfbf-56f3-43c6-abb8-49949616a66a)
