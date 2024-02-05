@@ -29,6 +29,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 - ### William Baur
 ![William Baur](https://github.com/D-E-E-P-Impact/.github/assets/147181270/7632d9b4-33ab-4b4a-af82-eac41d682ef5)
+
 Cybersecurity professional, DePaul University graduate, and Marine Corps Veteran 12 years of service as a Tactical data systems administrator. Experience in networking, Active Directory, Windows, Linux, and Unix operating systems. Leadership roles in both the corporate and military environments, working with C-level executives and Generals.
 
 [Linkedin](https://www.linkedin.com/in/williamrbaur/)
