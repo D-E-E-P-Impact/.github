@@ -6,6 +6,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 - ### Breanna Taylor
 ![Breanna Talylor 1](https://github.com/D-E-E-P-Impact/.github/assets/147181270/3468191b-9e56-449f-84d7-c381d36a1626)
 
+8-year Air Force Security Forces veteran with a strong background as a 4-year Electronic Maintenance Technician.My adaptability and continuous learning ensures growth in both security strategies and technological advancements.
 
 [Linkedin](https://www.linkedin.com/in/breanna-t-341637296)
 
@@ -50,7 +51,7 @@ Army Veteran of 20 years. Retired in 2022. I have a BA in Information Systems Se
 - ### Hector Cordova
 ![Hector Cordova](https://github.com/D-E-E-P-Impact/.github/assets/147181270/aa2e8bfc-91ed-46e7-bccb-6bc8d1fab6cc)
 
-Cyber Security Specialist | 8+ years of experience as Client Service Specialist/Signal Support System Specialist | United States Army Veteran
+Experienced Cybersecurity Specialist and U.S. Army Veteran with over 8 years of technical expertise. Adept at implementing innovative solutions and showcasing proficiency in diverse tools and technologies. Committed to continuous learning and bringing a unique blend of military leadership and civilian IT experience to drive success.
 
 [Linkedin](https://www.linkedin.com/in/hector-a-cordova/)
 
