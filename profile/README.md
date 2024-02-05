@@ -24,7 +24,7 @@ Cybersecurity Professional, US Army veteran, Experience in leading teams to over
 - ### Festus Oguhebe Jr
 [![Festus Oguhebe](https://github.com/D-E-E-P-Impact/.github/assets/147181270/b18a64cd-f8c9-455a-a372-57e53d5b252b)](https://www.linkedin.com/in/festus-oguhebe-jr-foco/)
 
-
+Helping companies maintain clean spaces that foster great first impressions, healthy employees, high 🚀 productivity & sales| Founder @ Touch of Magic Cleaning | Cybersecurity Student | Former Army/Air Force Captain
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/festus-oguhebe-jr-foco/)
 &nbsp;
