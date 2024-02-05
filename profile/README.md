@@ -40,6 +40,7 @@ Cybersecurity professional, DePaul University graduate, and Marine Corps Veteran
 - ### Tommy S Taylor II
 ![Tommy Taylor](https://github.com/D-E-E-P-Impact/.github/assets/147181270/a80d1730-fe75-46c0-8994-4c333808468a)
 
+Army Veteran of 20 years. Retired in 2022. I have a BA in Information Systems Security. I currently have the ITIL Foundations Certification and Cyber Security Analyst Certification  through IBM Skills Build. I plan to use all the skills I have obtained to help continue to shape the world of Cyber Security.
 
 [Linkedin](http://www.linkedin.com/in/taylortommy)
 
