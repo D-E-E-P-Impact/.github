@@ -45,7 +45,6 @@ Army Veteran of 20 years. Retired in 2022. I have a BA in Information Systems Se
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/taylortommy)
 &nbsp;
-
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/taylortommy23)
 
 - ### Hector Cordova
@@ -55,7 +54,6 @@ Experienced Cybersecurity Specialist and U.S. Army Veteran with over 8 years of 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hector-a-cordova/)
 &nbsp;
-
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Hector2024)
 <!--
 
