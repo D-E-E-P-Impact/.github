@@ -3,20 +3,30 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 # Meet our team.
 Breanna Taylor
+[Linkedin]()
+[GitHub]()
 
 David Renteria
+[Linkedin]()
+[GitHub]()
 
 Festus Oguhebe Jr
+[Linkedin]()
+[GitHub]()
 
 William Baur
 
 [Linkedin](https://www.linkedin.com/in/williamrbaur/)
-[GitHub]()
+[GitHub](https://github.com/Wrbaur)
 
 Tommy S Taylor II
+[Linkedin]()
+[GitHub]()
 
 
 Hector Cordova
+[Linkedin]()
+[GitHub]()
 
 
 <!--
