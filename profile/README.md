@@ -11,7 +11,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 [GitHub](https://github.com/Btaylor007)
 
-### David Renteria
+- ### David Renteria
 ![David Renteria](https://github.com/D-E-E-P-Impact/.github/assets/147181270/6394cfbf-56f3-43c6-abb8-49949616a66a)
 
 
@@ -19,7 +19,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 [GitHub](https://github.com/drent23)
 
-### Festus Oguhebe Jr
+- ### Festus Oguhebe Jr
 ![Festus Oguhebe](https://github.com/D-E-E-P-Impact/.github/assets/147181270/b18a64cd-f8c9-455a-a372-57e53d5b252b)
 
 
@@ -27,7 +27,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 [GitHub](https://github.com/focodecided)
 
-### William Baur
+- ### William Baur
 ![William Baur](https://github.com/D-E-E-P-Impact/.github/assets/147181270/7632d9b4-33ab-4b4a-af82-eac41d682ef5)
 
 
@@ -35,7 +35,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 [GitHub](https://github.com/Wrbaur)
 
-### Tommy S Taylor II
+- ### Tommy S Taylor II
 ![Tommy Taylor](https://github.com/D-E-E-P-Impact/.github/assets/147181270/a80d1730-fe75-46c0-8994-4c333808468a)
 
 
@@ -44,7 +44,7 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 [GitHub](https://github.com/taylortommy23)
 
 
-### Hector Cordova
+- ### Hector Cordova
 ![Hector Cordova](https://github.com/D-E-E-P-Impact/.github/assets/147181270/aa2e8bfc-91ed-46e7-bccb-6bc8d1fab6cc)
 
 
