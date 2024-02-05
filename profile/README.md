@@ -57,6 +57,9 @@ Experienced Cybersecurity Specialist and U.S. Army Veteran with over 8 years of 
 
 [GitHub](https://github.com/Hector2024)
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 <!--
 
 **Here are some ideas to get you started:**
