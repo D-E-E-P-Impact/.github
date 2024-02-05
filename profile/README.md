@@ -50,12 +50,12 @@ Army Veteran of 20 years. Retired in 2022. I have a BA in Information Systems Se
 - ### Hector Cordova
 ![Hector Cordova](https://github.com/D-E-E-P-Impact/.github/assets/147181270/aa2e8bfc-91ed-46e7-bccb-6bc8d1fab6cc)
 
+
+Experienced Cybersecurity Specialist and U.S. Army Veteran with over 8 years of technical expertise. Adept at implementing innovative solutions and showcasing proficiency in diverse tools and technologies. Committed to continuous learning and bringing a unique blend of military leadership and civilian IT experience to drive success.
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hector-a-cordova/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Hector2024)
-
-
-Experienced Cybersecurity Specialist and U.S. Army Veteran with over 8 years of technical expertise. Adept at implementing innovative solutions and showcasing proficiency in diverse tools and technologies. Committed to continuous learning and bringing a unique blend of military leadership and civilian IT experience to drive success.
 <!--
 
 **Here are some ideas to get you started:**
