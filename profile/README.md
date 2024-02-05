@@ -17,9 +17,9 @@ Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company
 
 Cybersecurity Professional, US Army veteran, Experience in leading teams to overcome technically complex challenges
 
-[Linkedin](https://www.linkedin.com/in/drent23)
-
-[GitHub](https://github.com/drent23)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/drent23)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/Btaylor007](https://github.com/drent23))
 
 - ### Festus Oguhebe Jr
 ![Festus Oguhebe](https://github.com/D-E-E-P-Impact/.github/assets/147181270/b18a64cd-f8c9-455a-a372-57e53d5b252b)
