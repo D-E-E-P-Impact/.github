@@ -2,7 +2,10 @@
 Disgruntled Employee Exploitation Program Impact or D.E.E.P. Impact is a company guided towards finding, isolationg, and stoping malicious insider attacks.
 
 # Meet our team.
-Breanna Taylor
+
+## Breanna Taylor
+![Breanna Talylor](https://github.com/D-E-E-P-Impact/.github/assets/147181270/15d6c759-177e-4e24-91b3-dc427d3edbb1)
+
 
 [Linkedin](https://www.linkedin.com/in/breanna-t-341637296)
 [GitHub](https://github.com/Btaylor007)
