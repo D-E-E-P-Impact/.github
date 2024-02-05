@@ -53,13 +53,10 @@ Army Veteran of 20 years. Retired in 2022. I have a BA in Information Systems Se
 
 Experienced Cybersecurity Specialist and U.S. Army Veteran with over 8 years of technical expertise. Adept at implementing innovative solutions and showcasing proficiency in diverse tools and technologies. Committed to continuous learning and bringing a unique blend of military leadership and civilian IT experience to drive success.
 
-[Linkedin](https://www.linkedin.com/in/hector-a-cordova/)
-
-[GitHub](https://github.com/Hector2024)
-
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hector-a-cordova/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Hector2024)
 <!--
 
 **Here are some ideas to get you started:**
