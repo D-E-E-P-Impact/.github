@@ -43,10 +43,10 @@ Cybersecurity professional, DePaul University graduate, and Marine Corps Veteran
 
 Army Veteran of 20 years. Retired in 2022. I have a BA in Information Systems Security. I currently have the ITIL Foundations Certification and Cyber Security Analyst Certification  through IBM Skills Build. I plan to use all the skills I have obtained to help continue to shape the world of Cyber Security.
 
-[Linkedin](http://www.linkedin.com/in/taylortommy)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/taylortommy)
+&nbsp;
 
-[GitHub](https://github.com/taylortommy23)
-
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/taylortommy23)
 
 - ### Hector Cordova
 ![Hector Cordova](https://github.com/D-E-E-P-Impact/.github/assets/147181270/aa2e8bfc-91ed-46e7-bccb-6bc8d1fab6cc)
