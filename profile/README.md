@@ -25,18 +25,20 @@ Cybersecurity Professional, US Army veteran, Experience in leading teams to over
 ![Festus Oguhebe](https://github.com/D-E-E-P-Impact/.github/assets/147181270/b18a64cd-f8c9-455a-a372-57e53d5b252b)
 
 
-[Linkedin](https://www.linkedin.com/in/festus-oguhebe-jr-foco/)
 
-[GitHub](https://github.com/focodecided)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/festus-oguhebe-jr-foco/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/focodecided)
+
 
 - ### William Baur
 ![William Baur](https://github.com/D-E-E-P-Impact/.github/assets/147181270/7632d9b4-33ab-4b4a-af82-eac41d682ef5)
 
 Cybersecurity professional, DePaul University graduate, and Marine Corps Veteran 12 years of service as a Tactical data systems administrator. Experience in networking, Active Directory, Windows, Linux, and Unix operating systems. Leadership roles in both the corporate and military environments, working with C-level executives and Generals.
 
-[Linkedin](https://www.linkedin.com/in/williamrbaur/)
-
-[GitHub](https://github.com/Wrbaur)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/williamrbaur/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Wrbaur)
 
 - ### Tommy S Taylor II
 ![Tommy Taylor](https://github.com/D-E-E-P-Impact/.github/assets/147181270/a80d1730-fe75-46c0-8994-4c333808468a)
